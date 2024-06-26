@@ -1,0 +1,18 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Get Started for free" : {
+
+    },
+    "I already have an account" : {
+      "comment" : "Login button"
+    },
+    "Learn programming languages by working on real projects" : {
+
+    },
+    "ProLingo" : {
+
+    }
+  },
+  "version" : "1.0"
+}
